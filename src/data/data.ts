@@ -1,0 +1,82 @@
+interface LinkTypes {
+  id: number;
+  name: string;
+  description: string;
+  challengeLink: string;
+  url: string;
+}
+
+export const linkData: LinkTypes[] = [
+  {
+    id: 1,
+    name: "QR code component",
+    description:
+      "A perfect first challenge if you're new to HTML and CSS. The card layout doesn't shift, so it's ideal if you haven't learned about building responsive layouts yet.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H",
+    url: "https://qr-code-component-rustyff12.netlify.app/",
+  },
+  {
+    id: 2,
+    name: "Blog preview card",
+    description:
+      "This HTML & CSS-only challenge is a perfect project for beginners getting up to speed with HTML and CSS fundamentals, like HTML structure and the box model.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS",
+    url: "https://blog-preview-rustyff12.netlify.app/",
+  },
+  {
+    id: 3,
+    name: "Social links profile",
+    description:
+      "In this small project, you'll build out your social link-sharing profile. You can even personalize it and use it to share all your social profiles!",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ",
+    url: "https://social-links-profile-rustyff12.netlify.app/",
+  },
+  {
+    id: 4,
+    name: "Recipe page",
+    description:
+      "This challenge will help you focus on writing semantic HTML. Ensure you think through what HTML elements are most appropriate for each piece of content.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm",
+    url: "https://recipe-page-rustyff12.netlify.app/",
+  },
+  {
+    id: 5,
+    name: "Product preview card component",
+    description:
+      "This HTML & CSS-only challenge will be perfect for anyone starting to build responsive projects.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa",
+    url: "https://product-preview-rustyff12.netlify.app/",
+  },
+  {
+    id: 6,
+    name: "Four card feature section",
+    description:
+      "A nice layout-based challenge for beginners. This will test anyone who is new to multi-column and responsive layouts.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK",
+    url: "https://four-card-feature-rustyff12.netlify.app/",
+  },
+  {
+    id: 7,
+    name: "Testimonials grid section",
+    description:
+      "This challenge will be perfect practice for anyone wanting to test their CSS Grid skills. Grid is such a powerful addition to CSS, so it's worth getting to grips with it!",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7",
+    url: "https://testimonials-grid-section-rustyff12.netlify.app/",
+  },
+  {
+    id: 8,
+    name: "Article preview component",
+    description:
+      "Practice your layout skills with this article preview component. There's lots of fun to be had playing around with animations for the sharing icons as well.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT",
+    url: "https://article-preview-component-rustyff12.netlify.app/",
+  },
+];

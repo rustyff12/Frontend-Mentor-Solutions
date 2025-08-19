@@ -4,6 +4,7 @@ interface LinkTypes {
   description: string;
   challengeLink: string;
   url: string;
+  image?: string;
 }
 
 export const linkData: LinkTypes[] = [
@@ -15,6 +16,7 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H",
     url: "https://qr-code-component-rustyff12.netlify.app/",
+    image: "/thumbnails/qr-image.png",
   },
   {
     id: 2,
@@ -24,6 +26,7 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS",
     url: "https://blog-preview-rustyff12.netlify.app/",
+    image: "/thumbnails/blog-image.png",
   },
   {
     id: 3,
@@ -33,6 +36,7 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ",
     url: "https://social-links-profile-rustyff12.netlify.app/",
+    image: "/thumbnails/social-image.png",
   },
   {
     id: 4,
@@ -42,6 +46,7 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm",
     url: "https://recipe-page-rustyff12.netlify.app/",
+    image: "/thumbnails/recipe-image.png",
   },
   {
     id: 5,
@@ -51,6 +56,7 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa",
     url: "https://product-preview-rustyff12.netlify.app/",
+    image: "/thumbnails/preview-image.png",
   },
   {
     id: 6,
@@ -60,6 +66,7 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK",
     url: "https://four-card-feature-rustyff12.netlify.app/",
+    image: "/thumbnails/four-card-image.png",
   },
   {
     id: 7,
@@ -69,6 +76,7 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7",
     url: "https://testimonials-grid-section-rustyff12.netlify.app/",
+    image: "/thumbnails/testimonials.png",
   },
   {
     id: 8,
@@ -78,5 +86,16 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT",
     url: "https://article-preview-component-rustyff12.netlify.app/",
+    image: "/thumbnails/article-preview-image.png",
+  },
+  {
+    id: 9,
+    name: "Newsletter sign-up form with success message",
+    description:
+      "This will test your skills with basic form structure, validation, and submission. The success state will also be an excellent opportunity to work with DOM manipulation.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv",
+    url: "https://newsletter-signup-rustyff12.netlify.app/",
+    image: "/thumbnails/signup-image.png",
   },
 ];

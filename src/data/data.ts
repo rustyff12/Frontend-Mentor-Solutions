@@ -128,4 +128,14 @@ export const linkData: LinkTypes[] = [
     url: "https://interactive-rating-component-rustyff1.netlify.app/",
     image: "/thumbnails/interactive-rating-image.png",
   },
+  {
+    id: 13,
+    name: "FAQ accordion",
+    description:
+      "In this challenge, you'll build an FAQ accordion. This is an extremely common front-end pattern, so it's an excellent opportunity to get some practice in!",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz",
+    url: "https://faq-accordion-rustyff12.netlify.app/",
+    image: "",
+  },
 ];

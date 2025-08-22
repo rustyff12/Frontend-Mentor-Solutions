@@ -98,4 +98,34 @@ export const linkData: LinkTypes[] = [
     url: "https://newsletter-signup-rustyff12.netlify.app/",
     image: "/thumbnails/signup-image.png",
   },
+  {
+    id: 10,
+    name: "Time tracking dashboard",
+    description:
+      "A perfect opportunity to practice your CSS Grid skills. For anyone wanting to take it up a notch, we provide a JSON data file to practice working with data.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw",
+    url: "https://time-tracking-rustyff12.netlify.app/",
+    image: "/thumbnails/time-tracker-image.png",
+  },
+  {
+    id: 11,
+    name: "Tip calculator app",
+    description:
+      "This small app is perfect for anyone starting to get to grips with JavaScript. The calculator functionality will be a nice test!",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX",
+    url: "https://tip-calculator-rustyff12.netlify.app/",
+    image: "/thumbnails/tip-calculator-image.png",
+  },
+  {
+    id: 12,
+    name: "Interactive rating component",
+    description:
+      "This is a nice, small project to practice handling user interactions and updating the DOM. Perfect for anyone who has learned the basics of JavaScript!",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI",
+    url: "https://interactive-rating-component-rustyff1.netlify.app/",
+    image: "/thumbnails/tip-calculator-image.png",
+  },
 ];

@@ -126,6 +126,6 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI",
     url: "https://interactive-rating-component-rustyff1.netlify.app/",
-    image: "/thumbnails/tip-calculator-image.png",
+    image: "/thumbnails/interactive-rating-image.png",
   },
 ];

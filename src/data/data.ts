@@ -136,6 +136,16 @@ export const linkData: LinkTypes[] = [
     challengeLink:
       "https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz",
     url: "https://faq-accordion-rustyff12.netlify.app/",
-    image: "",
+    image: "/thumbnails/faq-accordian.png",
+  },
+  {
+    id: 14,
+    name: "Contact form",
+    description:
+      "Building accessible forms is a crucial task for front-end developers. This challenge will help you practice building a form with several input types and validation.",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/contact-form--G-hYlqKJj",
+    url: "https://contact-form-rustyff12.netlify.app/",
+    image: "/thumbnails/contact-form.png",
   },
 ];

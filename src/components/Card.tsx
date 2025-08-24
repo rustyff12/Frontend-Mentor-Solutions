@@ -35,7 +35,7 @@ export default function Card({
         className={`rounded-xl bg-zinc-950 p-6 grid grid-cols-1 grid-rows-[80px_auto_auto_auto_auto] gap-2 text-gray-200 h-full `}
       >
         <div className="row-start-1 row-end-2 flex items-start">
-          <h2 className="text-3xl uppercase">{name}</h2>
+          <h2 className="text-2xl uppercase">{name}</h2>
         </div>
         <div className="row-start-2 row-end-4">
           <a

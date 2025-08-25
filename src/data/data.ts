@@ -148,4 +148,14 @@ export const linkData: LinkTypes[] = [
     url: "https://contact-form-rustyff12.netlify.app/",
     image: "/thumbnails/contact-form.png",
   },
+  {
+    id: 15,
+    name: "News homepage",
+    description:
+      "This news homepage will be an excellent opportunity to practice your CSS Grid skills. There will be lots of tricky decisions to make and plenty of learning opportunities!",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl",
+    url: "https://news-homepage-rustyff12.netlify.app/",
+    image: "/thumbnails/news-homepage.png",
+  },
 ];

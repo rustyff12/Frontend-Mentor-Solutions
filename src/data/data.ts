@@ -158,4 +158,14 @@ export const linkData: LinkTypes[] = [
     url: "https://news-homepage-rustyff12.netlify.app/",
     image: "/thumbnails/news-homepage.png",
   },
+  {
+    id: 16,
+    name: "E-commerce product page",
+    description:
+      "In this challenge, you'll build a beautiful product page. We'll be putting your JS skills to the test with a lightbox product gallery and cart functionality!",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6",
+    url: "https://e-commerce-product-page-rustyff12.netlify.app/",
+    image: "/thumbnails/e-commerce.png",
+  },
 ];

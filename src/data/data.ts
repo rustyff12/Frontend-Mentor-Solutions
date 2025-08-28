@@ -168,4 +168,14 @@ export const linkData: LinkTypes[] = [
     url: "https://e-commerce-product-page-rustyff12.netlify.app/",
     image: "/thumbnails/e-commerce.png",
   },
+  {
+    id: 17,
+    name: "Meet landing page",
+    description:
+      "This HTML & CSS only challenge is perfect if you're starting to get a bit comfortable with your layout skills. The responsive layout shifts will also be a great test!",
+    challengeLink:
+      "https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR",
+    url: "https://meet-landing-page-rustyff12.netlify.app/",
+    image: "/thumbnails/meet-landing-page.png",
+  },
 ];
